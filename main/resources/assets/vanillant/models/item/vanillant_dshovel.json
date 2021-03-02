@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "vanillant:items/vanillant_dshovel"
+  }
+}
